@@ -9,18 +9,6 @@
 //   - 2. "mean of square minus square of mean" (see https://en.wikipedia.org/wiki/Variance)
 
 
-
-use std::cmp;
-
-fn min(array: []) {
-    return cmp::min(array);
-}
-
-fn max(array: []) {
-    return cmp::max_val(array);
-}
-
-
 fn sum_array(val_array:Vec<f64>)-> f64{
     let result = val_array.iter().sum();
     return result
@@ -51,10 +39,16 @@ pub fn max(arr: Vec<i32>) -> i32 {
     }).unwrap()
 }
 
-
 fn mean(val_array:Vec<f64>) -> f64{
     let n = val_array.iter().len();
     let sum_n = sum_array(val_array);
     let result = sum_n/n;
     return result;
+}
+
+pub fn extent(arr: Vec<i32>) -> Vec<i32> {
+    let refer = arr.clone();
+    let min = min(arr);
+    let max = max(refer);
+    return vec![min, max];
 }
