@@ -22,8 +22,33 @@ fn max(array: []) {
 
 
 fn sum_array(val_array:Vec<f64>)-> f64{
-    let result = val_array.iter().fold(0f64,|a, &b| a + b);
+    let result = val_array.iter().sum();
     return result
+}
+
+pub fn min(arr: Vec<i32>) -> i32 {
+    let mut arr_iter = arr.iter();
+    *arr_iter.next()
+    .map(|mut min| {
+        for i in arr_iter {
+            if i < min {
+                min = i;
+            }
+        }
+        min
+    }).unwrap()
+}
+pub fn max(arr: Vec<i32>) -> i32 {
+    let mut arr_iter = arr.iter();
+    *arr_iter.next()
+    .map(|mut max| {
+        for i in arr_iter {
+            if i > max {
+                max = i;
+            }
+        }
+        max
+    }).unwrap()
 }
 
 
@@ -33,5 +58,3 @@ fn mean(val_array:Vec<f64>) -> f64{
     let result = sum_n/n;
     return result;
 }
-
-

@@ -1,17 +1,28 @@
-use std::cmp;
-use std::ptr;
 
-// Min reference: https://github.com/d3/d3-array/blob/master/README.md#min
-// Source: https://github.com/d3/d3-array/blob/master/src/min.js
-pub fn min(arr: Vec<i32>) -> i32 {
-    let mut min = None;
-    let arr_iter = arr.into_iter();
-    for i in arr_iter {
-        if i < arr_iter.next().unwrap(){
-            min = Some(i);
+pub fn max(arr: Vec<i32>) -> i32 {
+    let mut arr_iter = arr.iter();
+    *arr_iter.next()
+    .map(|mut max| {
+        for i in arr_iter {
+            if i > max {
+                max = i;
+            }
         }
-    }
-    min.unwrap()
+        max
+    }).unwrap()
+}
+pub fn min(arr: Vec<i32>) -> i32 {
+    let mut arr_iter = arr.iter();
+    *arr_iter.next()
+    .map(|mut min| {
+        for i in arr_iter {
+            if i < min {
+                min = i;
+            }
+        }
+        // print!("{}\n", min);
+        min
+    }).unwrap()
 }
 // Copy pasta code
 fn max_by_for<I, F, B>(mut it: I, mut f: F) -> Option<I::Item>
@@ -36,7 +47,9 @@ pub fn max_index_iter_for(array: &[i32]) -> usize {
 }
 
 fn main() {
-    let array = vec![1,2,3,4,5,33,44,55,4,5,6,0];
-    let min = min(array);
-    println!("min is {}", min);
+    let array = vec![1,2,3,4,5,33,44,55,0,123,344,12,3,2,12,33,44,3,1,2,3,12,-23,12,232,34,87,786,786,786,67,78,67,84,5,6];
+    // let min = min(array);
+    let max = max(array);
+    // println!("min is {}\n", min);
+    println!("max is {}\n", max);
 }
