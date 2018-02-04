@@ -1,14 +1,14 @@
 
 pub fn max(arr: Vec<i32>) -> i32 {
-    let mut arr_iter = arr.iter();
-    *arr_iter.next()
+    let arr_iter = arr.iter();
+    arr.iter().next()
     .map(|mut max| {
         for i in arr_iter {
             if i > max {
                 max = i;
             }
         }
-        max
+        *max
     }).unwrap()
 }
 
@@ -38,6 +38,9 @@ fn sum_array(val_array:Vec<f64>)-> f64{
     return val_array.iter().sum();
 }
 
+fn deviation(arr:Vec<f64>) -> f64 {
+    variance(arr).sqrt()
+}
 fn mean(val_array:Vec<f64>) -> f64{
     let arr = val_array.clone();
     sum_array(val_array) / arr.len() as f64
@@ -61,7 +64,8 @@ pub fn variance(arr: Vec<f64>) -> f64 {
 fn main() {
     let array = vec![1.44,2.23,3.65,5.65,7.66,7.885,4.345,234.33,2.32,556.76,87.69,0.76,45.34,45.56,43.44,45.566,67.86,342.34,344.33,43.45];
     // let min = min(array);
-    let variance = variance(array);
+    // let variance = variance(array);
+    let deviation = deviation(array);
     // println!("min is {}\n", min);
-    println!("variance is {}\n", variance);
+    println!("deviation is {}\n", deviation);
 }

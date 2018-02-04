@@ -8,6 +8,7 @@
 //  - 1. direct as central 2nd order moment (https://en.wikipedia.org/wiki/Moment_(mathematics))divided by the length of the vector
 //   - 2. "mean of square minus square of mean" (see https://en.wikipedia.org/wiki/Variance)
 
+
 pub fn min(arr: Vec<i32>) -> i32 {
     let mut arr_iter = arr.iter();
     *arr_iter.next()
@@ -56,7 +57,9 @@ pub fn variance(arr: Vec<f64>) -> f64 {
     (num * num)/denom
     }
 }
-
+pub fn deviation(arr:Vec<f64>) -> f64 {
+    variance(arr).sqrt()
+}
 pub fn extent(arr: Vec<i32>) -> Vec<i32> {
     let refer = arr.clone();
     let min = min(arr);
