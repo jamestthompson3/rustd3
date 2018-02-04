@@ -26,17 +26,42 @@ pub fn min(arr: Vec<i32>) -> i32 {
     }).unwrap()
 }
 
+#[no_mangle]
 pub fn extent(arr: Vec<i32>) -> Vec<i32> {
     let refer = arr.clone();
     let min = min(arr);
     let max = max(refer);
     return vec![min, max];
 }
+
+fn sum_array(val_array:Vec<f64>)-> f64{
+    return val_array.iter().sum();
+}
+
+fn mean(val_array:Vec<f64>) -> f64{
+    let arr = val_array.clone();
+    sum_array(val_array) / arr.len() as f64
+}
+
+pub fn variance(arr: Vec<f64>) -> f64 {
+    let referrence = arr.clone();
+    if arr.len() < 2 {
+            0.0
+        } else {
+        let mean = mean(referrence);
+        let num: f64 = arr.iter()
+        .map(|x| {
+            x - mean
+        }).sum();
+        let denom = (&arr.len() - 1) as f64;
+    (num * num)/denom
+    }
+}
+
 fn main() {
-    let array = vec![1,2,3,4,5,33,44,55,0,123,344,12,3,2,12,33,44,3,1,2,3,12,-23,12,232,34,87,786,786,786,67,78,67,84,5,6];
+    let array = vec![1.44,2.23,3.65,5.65,7.66,7.885,4.345,234.33,2.32,556.76,87.69,0.76,45.34,45.56,43.44,45.566,67.86,342.34,344.33,43.45];
     // let min = min(array);
-    let extent = extent(array);
+    let variance = variance(array);
     // println!("min is {}\n", min);
-    println!("extent min is {}\n", extent[0]);
-    println!("extent max is {}\n", extent[1]);
+    println!("variance is {}\n", variance);
 }

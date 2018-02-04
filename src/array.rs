@@ -8,12 +8,6 @@
 //  - 1. direct as central 2nd order moment (https://en.wikipedia.org/wiki/Moment_(mathematics))divided by the length of the vector
 //   - 2. "mean of square minus square of mean" (see https://en.wikipedia.org/wiki/Variance)
 
-
-fn sum_array(val_array:Vec<f64>)-> f64{
-    let result = val_array.iter().sum();
-    return result
-}
-
 pub fn min(arr: Vec<i32>) -> i32 {
     let mut arr_iter = arr.iter();
     *arr_iter.next()
@@ -39,11 +33,28 @@ pub fn max(arr: Vec<i32>) -> i32 {
     }).unwrap()
 }
 
+fn sum_array(val_array:Vec<f64>)-> f64{
+    return val_array.iter().sum();
+}
+
 fn mean(val_array:Vec<f64>) -> f64{
-    let n = val_array.iter().len();
-    let sum_n = sum_array(val_array);
-    let result = sum_n/n;
-    return result;
+    let arr = val_array.clone();
+    sum_array(val_array) / arr.len() as f64
+}
+
+pub fn variance(arr: Vec<f64>) -> f64 {
+    let referrence = arr.clone();
+    if arr.len() < 2 {
+            0.0
+        } else {
+        let mean = mean(referrence);
+        let num: f64 = arr.iter()
+        .map(|x| {
+            x - mean
+        }).sum();
+        let denom = (&arr.len() - 1) as f64;
+    (num * num)/denom
+    }
 }
 
 pub fn extent(arr: Vec<i32>) -> Vec<i32> {
