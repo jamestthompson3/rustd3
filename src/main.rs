@@ -1,5 +1,5 @@
 
-pub fn max(arr: Vec<i32>) -> i32 {
+pub fn max(arr: &Vec<f64>) -> f64 {
     let arr_iter = arr.iter();
     arr.iter().next()
     .map(|mut max| {
@@ -12,7 +12,7 @@ pub fn max(arr: Vec<i32>) -> i32 {
     }).unwrap()
 }
 
-pub fn min(arr: Vec<i32>) -> i32 {
+pub fn min(arr: &Vec<f64>) -> f64 {
     let mut arr_iter = arr.iter();
     *arr_iter.next()
     .map(|mut min| {
@@ -21,16 +21,14 @@ pub fn min(arr: Vec<i32>) -> i32 {
                 min = i;
             }
         }
-        // print!("{}\n", min);
         min
     }).unwrap()
 }
 
 #[no_mangle]
-pub fn extent(arr: Vec<i32>) -> Vec<i32> {
-    let refer = arr.clone();
+pub fn extent(arr: &Vec<f64>) -> Vec<f64> {
     let min = min(arr);
-    let max = max(refer);
+    let max = max(arr);
     return vec![min, max];
 }
 
@@ -38,20 +36,19 @@ fn sum_array(val_array:Vec<f64>)-> f64{
     return val_array.iter().sum();
 }
 
-fn deviation(arr:Vec<f64>) -> f64 {
+fn deviation(arr:&Vec<f64>) -> f64 {
     variance(arr).sqrt()
 }
-fn mean(val_array:Vec<f64>) -> f64{
-    let arr = val_array.clone();
-    sum_array(val_array) / arr.len() as f64
+
+fn mean(val_array:&Vec<f64>) -> f64{
+    sum_array(val_array.to_vec()) / val_array.len() as f64
 }
 
-pub fn variance(arr: Vec<f64>) -> f64 {
-    let referrence = arr.clone();
+pub fn variance(arr: &Vec<f64>) -> f64 {
     if arr.len() < 2 {
             0.0
         } else {
-        let mean = mean(referrence);
+        let mean = mean(arr);
         let num: f64 = arr.iter()
         .map(|x| {
             x - mean
@@ -63,9 +60,10 @@ pub fn variance(arr: Vec<f64>) -> f64 {
 
 fn main() {
     let array = vec![1.44,2.23,3.65,5.65,7.66,7.885,4.345,234.33,2.32,556.76,87.69,0.76,45.34,45.56,43.44,45.566,67.86,342.34,344.33,43.45];
-    // let min = min(array);
+    // let min = min(&array);
     // let variance = variance(array);
-    let deviation = deviation(array);
+    // let deviation = deviation(array);
+    let mean = mean(&array);
     // println!("min is {}\n", min);
-    println!("deviation is {}\n", deviation);
+    println!("variance is {}\n", mean);
 }

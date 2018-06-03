@@ -39,8 +39,8 @@ fn sum_array(val_array:Vec<f64>)-> f64{
 }
 
 fn mean(val_array:Vec<f64>) -> f64{
-    let arr = val_array.clone();
-    sum_array(val_array) / arr.len() as f64
+    // let arr = val_array.clone();
+    sum_array(val_array) / val_array.len() as f64
 }
 
 pub fn variance(arr: Vec<f64>) -> f64 {
