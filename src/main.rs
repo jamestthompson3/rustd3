@@ -1,22 +1,20 @@
 
 pub fn max(arr: &Vec<f64>) -> f64 {
-    let arr_iter = arr.iter();
-    arr.iter().next()
+    *arr.iter().next()
     .map(|mut max| {
-        for i in arr_iter {
+        for i in arr {
             if i > max {
                 max = i;
             }
         }
-        *max
+        max
     }).unwrap()
 }
 
 pub fn min(arr: &Vec<f64>) -> f64 {
-    let mut arr_iter = arr.iter();
-    *arr_iter.next()
+    *arr.iter().next()
     .map(|mut min| {
-        for i in arr_iter {
+        for i in arr {
             if i < min {
                 min = i;
             }
@@ -25,7 +23,6 @@ pub fn min(arr: &Vec<f64>) -> f64 {
     }).unwrap()
 }
 
-#[no_mangle]
 pub fn extent(arr: &Vec<f64>) -> Vec<f64> {
     let min = min(arr);
     let max = max(arr);
@@ -60,10 +57,12 @@ pub fn variance(arr: &Vec<f64>) -> f64 {
 
 fn main() {
     let array = vec![1.44,2.23,3.65,5.65,7.66,7.885,4.345,234.33,2.32,556.76,87.69,0.76,45.34,45.56,43.44,45.566,67.86,342.34,344.33,43.45];
-    // let min = min(&array);
-    // let variance = variance(array);
-    // let deviation = deviation(array);
+    let min = min(&array);
+    let max = max(&array);
+    let extent = extent(&array);
+    let variance = variance(&array);
+    let deviation = deviation(&array);
     let mean = mean(&array);
-    // println!("min is {}\n", min);
-    println!("variance is {}\n", mean);
+    // println!("extent is {}\n", extent);
+    println!("mean is {}\nvariance is {}\ndeviation is {}\nmax is {}\nmin is {}\nextent is {:?}", mean, variance, deviation, max, min, extent);
 }
