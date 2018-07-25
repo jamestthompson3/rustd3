@@ -1,0 +1,329 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/44a0e97/
+0	target/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.1164083562126845933
+0	target/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.15337506775154344876
+0	target/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.1617349019360157463
+0	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	a	array:local.0.MtimeBased
+0	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	n	array:local.0.MtimeBased.0
+0	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	o	array:local
+0	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	a	array:local.0.MtimeBased
+0	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	n	array:local.0.MtimeBased.0
+0	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	o	array:local
+0	target/rls/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.1164083562126845933
+0	target/rls/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.15337506775154344876
+0	target/rls/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.1617349019360157463
+0	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	o	array:local
+0	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	o	array:local
+0	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	a	array:deps
+0	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	o	array:local
+0	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	s	array:deps.0
+0	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	o	array:local
+0	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	o	array:local
+0	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	o	array:local
+0	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	a	array:deps
+0	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	o	array:local
+0	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	s	array:deps.0
+0	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	o	array:local
+0	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	o	array:local
+0	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	o	array:local
+0	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	o	array:local
+0	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	a	array:local.0.MtimeBased
+0	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n	array:local.0.MtimeBased.0
+0	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	o	array:local
+1	target/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.1164083562126845933
+1	target/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.15337506775154344876
+1	target/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.1617349019360157463
+1	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	n	array:local.0.MtimeBased.0
+1	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	s	array:local.0.MtimeBased
+1	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	n	array:local.0.MtimeBased.0
+1	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	s	array:local.0.MtimeBased
+1	target/rls/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.1164083562126845933
+1	target/rls/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.15337506775154344876
+1	target/rls/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	s	array:outputs.1617349019360157463
+1	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	s	array:local.0.MtimeBased
+1	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	s	array:local.0.MtimeBased
+1	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	s	array:deps.0
+1	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	s	array:local.0.MtimeBased
+1	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	s	array:local.0.MtimeBased
+1	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	s	array:local.0.MtimeBased
+1	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	s	array:local.0.MtimeBased
+1	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	s	array:deps.0
+1	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	s	array:local.0.MtimeBased
+1	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	s	array:local.0.MtimeBased
+1	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	s	array:local.0.MtimeBased
+1	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	s	array:local.0.MtimeBased
+1	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	s	array:local.0.MtimeBased
+1	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n	array:local.0.MtimeBased.0
+1	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	s	array:local.0.MtimeBased
+1164083562126845933	target/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	a	object:outputs
+1164083562126845933	target/rls/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	a	object:outputs
+15337506775154344876	target/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	a	object:outputs
+15337506775154344876	target/rls/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	a	object:outputs
+1617349019360157463	target/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	a	object:outputs
+1617349019360157463	target/rls/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	a	object:outputs
+2	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n	array:deps.0
+2	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n	array:deps.0
+A run amock journey in Rust via copying the venerable d3 util functions	readme.md	/^### A run amock journey in Rust via copying the venerable d3 util functions$/;"	S
+MtimeBased	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	a	object:local.0
+MtimeBased	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	a	object:local.0
+MtimeBased	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	a	object:local.0
+Stats	src/cheatsheet.rs	/^pub trait Stats {$/;"	i
+Summary	src/cheatsheet.rs	/^impl Summary {$/;"	c
+Summary	src/cheatsheet.rs	/^pub struct Summary {$/;"	s
+array	src/lib.rs	/^pub mod array;$/;"	n
+assert_approx_eq	src/cheatsheet.rs	/^    macro_rules! assert_approx_eq {$/;"	M	module:tests
+bench	src/cheatsheet.rs	/^mod bench {$/;"	n
+check	src/cheatsheet.rs	/^    fn check(samples: &[f64], summ: &Summary) {$/;"	f	module:tests
+d3 in Rust	readme.md	/^# d3 in Rust$/;"	c
+deps	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	a
+deps	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	a
+deps	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	a
+deviation	src/array.rs	/^pub fn deviation<T: PartialOrd + Copy>(arr: &[T]) -> f64 {$/;"	f
+edition	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	s
+edition	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	s
+edition	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	s
+edition	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	s
+edition	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	s
+edition	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	s
+edition	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	s
+edition	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	s
+edition	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	s
+edition	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	s
+edition	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	s
+edition	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	s
+extent	src/array.rs	/^pub fn extent<'a, T: PartialOrd + Copy>(arr: &[T]) -> Vec<T> {$/;"	f
+f64	src/cheatsheet.rs	/^impl Stats for [f64] {$/;"	c
+features	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	s
+features	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	s
+features	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	s
+iqr	src/cheatsheet.rs	/^    fn iqr(&self) -> f64 {$/;"	P	implementation:f64
+iqr	src/cheatsheet.rs	/^    fn iqr(&self) -> f64;$/;"	P	interface:Stats
+iqr	src/cheatsheet.rs	/^    pub iqr: f64,$/;"	m	struct:Summary
+it_works	src/lib.rs	/^    fn it_works() {$/;"	f	module:tests
+local	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	a
+local	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	a
+local	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	a
+local_cmp	src/cheatsheet.rs	/^fn local_cmp(x: f64, y: f64) -> Ordering {$/;"	f
+local_sort	src/cheatsheet.rs	/^fn local_sort(v: &mut [f64]) {$/;"	f
+main	src/main.rs	/^fn main() {$/;"	f
+max	src/array.rs	/^pub fn max<T: PartialOrd + Copy>(arr: &[T]) -> T {$/;"	f
+max	src/cheatsheet.rs	/^    fn max(&self) -> f64 {$/;"	P	implementation:f64
+max	src/cheatsheet.rs	/^    fn max(&self) -> f64;$/;"	P	interface:Stats
+max	src/cheatsheet.rs	/^    pub max: f64,$/;"	m	struct:Summary
+mean	src/array.rs	/^pub fn mean<T: PartialOrd + Copy + Div>(arr: &[T]) -> f64$/;"	f
+mean	src/cheatsheet.rs	/^    fn mean(&self) -> f64 {$/;"	P	implementation:f64
+mean	src/cheatsheet.rs	/^    fn mean(&self) -> f64;$/;"	P	interface:Stats
+mean	src/cheatsheet.rs	/^    pub mean: f64,$/;"	m	struct:Summary
+median	src/array.rs	/^fn median<T: PartialOrd + Copy>(arr: &[T]) -> f64 {$/;"	f
+median	src/cheatsheet.rs	/^    fn median(&self) -> f64 {$/;"	P	implementation:f64
+median	src/cheatsheet.rs	/^    fn median(&self) -> f64;$/;"	P	interface:Stats
+median	src/cheatsheet.rs	/^    pub median: f64,$/;"	m	struct:Summary
+median_abs_dev	src/cheatsheet.rs	/^    fn median_abs_dev(&self) -> f64 {$/;"	P	implementation:f64
+median_abs_dev	src/cheatsheet.rs	/^    fn median_abs_dev(&self) -> f64;$/;"	P	interface:Stats
+median_abs_dev	src/cheatsheet.rs	/^    pub median_abs_dev: f64,$/;"	m	struct:Summary
+median_abs_dev_pct	src/cheatsheet.rs	/^    fn median_abs_dev_pct(&self) -> f64 {$/;"	P	implementation:f64
+median_abs_dev_pct	src/cheatsheet.rs	/^    fn median_abs_dev_pct(&self) -> f64;$/;"	P	interface:Stats
+median_abs_dev_pct	src/cheatsheet.rs	/^    pub median_abs_dev_pct: f64,$/;"	m	struct:Summary
+min	src/array.rs	/^pub fn min<T: PartialOrd + Copy>(arr: &[T]) -> T {$/;"	f
+min	src/cheatsheet.rs	/^    fn min(&self) -> f64 {$/;"	P	implementation:f64
+min	src/cheatsheet.rs	/^    fn min(&self) -> f64;$/;"	P	interface:Stats
+min	src/cheatsheet.rs	/^    pub min: f64,$/;"	m	struct:Summary
+new	src/cheatsheet.rs	/^    pub fn new(samples: &[f64]) -> Summary {$/;"	P	implementation:Summary
+outputs	target/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	o
+outputs	target/rls/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	o
+path	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	n
+path	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n
+path	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n
+percentile	src/cheatsheet.rs	/^    fn percentile(&self, pct: f64) -> f64 {$/;"	P	implementation:f64
+percentile	src/cheatsheet.rs	/^    fn percentile(&self, pct: f64) -> f64;$/;"	P	interface:Stats
+percentile_of_sorted	src/cheatsheet.rs	/^fn percentile_of_sorted(sorted_samples: &[f64], pct: f64) -> f64 {$/;"	f
+profile	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	n
+profile	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n
+profile	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n
+quartiles	src/cheatsheet.rs	/^    fn quartiles(&self) -> (f64,f64,f64) {$/;"	P	implementation:f64
+quartiles	src/cheatsheet.rs	/^    fn quartiles(&self) -> (f64,f64,f64);$/;"	P	interface:Stats
+quartiles	src/cheatsheet.rs	/^    pub quartiles: (f64,f64,f64),$/;"	m	struct:Summary
+rustc	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	n
+rustc	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n
+rustc	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n
+rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	n
+rustc_fingerprint	target/rls/.rustc_info.json	/^{"rustc_fingerprint":10100628886622753291,"outputs":{"15337506775154344876":["___\\nlib___.rlib\\/;"	n
+rustflags	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	a
+rustflags	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	a
+rustflags	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	a
+std_dev	src/cheatsheet.rs	/^    fn std_dev(&self) -> f64 {$/;"	P	implementation:f64
+std_dev	src/cheatsheet.rs	/^    fn std_dev(&self) -> f64;$/;"	P	interface:Stats
+std_dev	src/cheatsheet.rs	/^    pub std_dev: f64,$/;"	m	struct:Summary
+std_dev_pct	src/cheatsheet.rs	/^    fn std_dev_pct(&self) -> f64 {$/;"	P	implementation:f64
+std_dev_pct	src/cheatsheet.rs	/^    fn std_dev_pct(&self) -> f64;$/;"	P	interface:Stats
+std_dev_pct	src/cheatsheet.rs	/^    pub std_dev_pct: f64,$/;"	m	struct:Summary
+sum	src/cheatsheet.rs	/^    fn sum(&self) -> f64 {$/;"	P	implementation:f64
+sum	src/cheatsheet.rs	/^    fn sum(&self) -> f64;$/;"	P	interface:Stats
+sum	src/cheatsheet.rs	/^    pub sum: f64,$/;"	m	struct:Summary
+sum_array	src/array.rs	/^pub fn sum_array<'a, T: PartialOrd + Copy>(arr: &'static [T]) -> T$/;"	f
+sum_many_f64	src/cheatsheet.rs	/^    pub fn sum_many_f64(b: &mut Bencher) {$/;"	f	module:bench
+sum_three_items	src/cheatsheet.rs	/^    pub fn sum_three_items(b: &mut Bencher) {$/;"	f	module:bench
+target	target/debug/.fingerprint/d3_calcs-2279f46b10b325f4/bin-d3_calcs-2279f46b10b325f4.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":2344104273/;"	n
+target	target/debug/.fingerprint/d3_calcs-bc2aadae5e5d5594/test-bin-d3_calcs-bc2aadae5e5d5594.json	/^{"rustc":16422153329423790238,"features":"[]","target":15911914444542648218,"profile":4949898173/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-008700e130595a57/bin-d3_calcs-008700e130595a57.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-0b1e54e4aec9762d/lib-d3_calcs-0b1e54e4aec9762d.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-1f743bc592c5282b/test-bin-d3_calcs-1f743bc592c5282b.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-300671a96e33d359/test-lib-d3_calcs-300671a96e33d359.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-32b04d2285c1fab4/bin-d3_calcs-32b04d2285c1fab4.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-43a659019afef7be/lib-d3_calcs-43a659019afef7be.json	/^{"rustc":6733922557581085290,"features":"[]","target":14939796796430356222,"profile":17850318411/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-51041d4a5c73f5a9/bin-d3_calcs-51041d4a5c73f5a9.json	/^{"rustc":6733922557581085290,"features":"[]","target":15911914444542648218,"profile":17850318411/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-63706e42bc62eced/test-bin-d3_calcs-63706e42bc62eced.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-8e3024a81cf8d87a/test-bin-d3_calcs-8e3024a81cf8d87a.json	/^{"rustc":4797415720097684419,"features":"[]","target":15911914444542648218,"profile":18445955105/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-b7f4b0e450e1a8ba/test-bin-d3_calcs-b7f4b0e450e1a8ba.json	/^{"rustc":15126134558041730008,"features":"[]","target":15911914444542648218,"profile":1535131896/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-c4f0d1d833ab1185/test-lib-d3_calcs-c4f0d1d833ab1185.json	/^{"rustc":4797415720097684419,"features":"[]","target":14939796796430356222,"profile":18445955105/;"	n
+target	target/rls/debug/.fingerprint/d3_calcs-c6435a2065cad31b/bin-d3_calcs-c6435a2065cad31b.json	/^{"rustc":12064078311535819944,"features":"[]","target":15911914444542648218,"profile":1424571968/;"	n
+test_binom25	src/cheatsheet.rs	/^    fn test_binom25() {$/;"	f	module:tests
+test_exp10a	src/cheatsheet.rs	/^    fn test_exp10a() {$/;"	f	module:tests
+test_exp10b	src/cheatsheet.rs	/^    fn test_exp10b() {$/;"	f	module:tests
+test_exp10c	src/cheatsheet.rs	/^    fn test_exp10c() {$/;"	f	module:tests
+test_exp25	src/cheatsheet.rs	/^    fn test_exp25() {$/;"	f	module:tests
+test_min_max_nan	src/cheatsheet.rs	/^    fn test_min_max_nan() {$/;"	f	module:tests
+test_norm10medium	src/cheatsheet.rs	/^    fn test_norm10medium() {$/;"	f	module:tests
+test_norm10narrow	src/cheatsheet.rs	/^    fn test_norm10narrow() {$/;"	f	module:tests
+test_norm10wide	src/cheatsheet.rs	/^    fn test_norm10wide() {$/;"	f	module:tests
+test_norm2	src/cheatsheet.rs	/^    fn test_norm2() {$/;"	f	module:tests
+test_norm25verynarrow	src/cheatsheet.rs	/^    fn test_norm25verynarrow() {$/;"	f	module:tests
+test_pois25lambda30	src/cheatsheet.rs	/^    fn test_pois25lambda30() {$/;"	f	module:tests
+test_pois25lambda40	src/cheatsheet.rs	/^    fn test_pois25lambda40() {$/;"	f	module:tests
+test_pois25lambda50	src/cheatsheet.rs	/^    fn test_pois25lambda50() {$/;"	f	module:tests
+test_sum_f64_between_ints_that_sum_to_0	src/cheatsheet.rs	/^    fn test_sum_f64_between_ints_that_sum_to_0() {$/;"	f	module:tests
+test_sum_f64s	src/cheatsheet.rs	/^    fn test_sum_f64s() {$/;"	f	module:tests
+test_unif25	src/cheatsheet.rs	/^    fn test_unif25() {$/;"	f	module:tests
+tests	src/cheatsheet.rs	/^mod tests {$/;"	n
+tests	src/lib.rs	/^mod tests {$/;"	n
+var	src/cheatsheet.rs	/^    fn var(&self) -> f64 {$/;"	P	implementation:f64
+var	src/cheatsheet.rs	/^    fn var(&self) -> f64;$/;"	P	interface:Stats
+var	src/cheatsheet.rs	/^    pub var: f64,$/;"	m	struct:Summary
+variance	src/array.rs	/^pub fn variance<T: PartialOrd + Copy>(arr: &[T]) -> f64 {$/;"	f
+winsorize	src/cheatsheet.rs	/^pub fn winsorize(samples: &mut [f64], pct: f64) {$/;"	f

@@ -1,68 +1,63 @@
-/// d3 Array functions
-/// min, max, extent, sum,
-/// mean, median, quantile, variance,
-/// deviation
+/// # Array
+/// Implements d3 array functions ()[https://github.com/d3/d3-array]
 
-// variance
-// there are two ways of calculating the variance we could profile them
-//  - 1. direct as central 2nd order moment (https://en.wikipedia.org/wiki/Moment_(mathematics))divided by the length of the vector
-//   - 2. "mean of square minus square of mean" (see https://en.wikipedia.org/wiki/Variance)
+use std::ops::Div;
 
-
-pub fn min(arr: Vec<i32>) -> i32 {
-    let mut arr_iter = arr.iter();
-    *arr_iter.next()
-    .map(|mut min| {
-        for i in arr_iter {
-            if i < min {
-                min = i;
-            }
-        }
-        min
-    }).unwrap()
-}
-pub fn max(arr: Vec<i32>) -> i32 {
-    let mut arr_iter = arr.iter();
-    *arr_iter.next()
-    .map(|mut max| {
-        for i in arr_iter {
-            if i > max {
+pub fn max<T: PartialOrd + Copy>(arr: &[T]) -> T {
+    let mut max = arr[0];
+        for &i in arr.iter() {
+            if i < max {
                 max = i;
             }
         }
         max
-    }).unwrap()
+ }
+
+pub fn min<T: PartialOrd + Copy>(arr: &[T]) -> T {
+       let mut max = arr[0];
+        for &i in arr.iter() {
+            if i < max {
+                max = i;
+            }
+        }
+        max
 }
 
-fn sum_array(val_array:Vec<f64>)-> f64{
-    return val_array.iter().sum();
+pub fn extent<'a, T: PartialOrd + Copy>(arr: &[T]) -> Vec<T> {
+    let min = min(arr);
+    let max = max(arr);
+    return vec![min, max];
 }
 
-fn mean(val_array:Vec<f64>) -> f64{
-    // let arr = val_array.clone();
-    sum_array(val_array) / val_array.len() as f64
+pub fn sum_array<'a, T: PartialOrd + Copy>(arr: &'static [T]) -> T
+    where T: std::iter::Sum<&'a T>
+{
+    return arr.iter().sum();
 }
 
-pub fn variance(arr: Vec<f64>) -> f64 {
-    let referrence = arr.clone();
+pub fn deviation<T: PartialOrd + Copy>(arr: &[T]) -> f64 {
+    variance(arr).sqrt()
+}
+
+pub fn mean<T: PartialOrd + Copy + Div>(arr: &[T]) -> f64
+{
+    let length = arr.len() as f64;
+    sum_array(&arr) as f64 / length
+}
+
+fn median<T: PartialOrd + Copy>(arr: &[T]) -> f64 {
+    1.22
+}
+
+pub fn variance<T: PartialOrd + Copy>(arr: &[T]) -> f64 {
     if arr.len() < 2 {
             0.0
         } else {
-        let mean = mean(referrence);
-        let num: f64 = arr.iter()
+        let num: T = arr.iter()
         .map(|x| {
             x - mean
-        }).sum();
         let denom = (&arr.len() - 1) as f64;
     (num * num)/denom
     }
 }
-pub fn deviation(arr:Vec<f64>) -> f64 {
-    variance(arr).sqrt()
-}
-pub fn extent(arr: Vec<i32>) -> Vec<i32> {
-    let refer = arr.clone();
-    let min = min(arr);
-    let max = max(refer);
-    return vec![min, max];
 }
