@@ -25,18 +25,6 @@ impl MyInt for f32 {
     }
 }
 
-struct MyStruct<T> where T: MyInt {
-    field: T
-}
-
-impl<T> MyStruct<T> where T: MyInt {
-    fn new(var: T) -> MyStruct<T> {
-        MyStruct {
-            field: var
-        }
-    }
-}
-
 pub fn mean<T>(arr: &[T]) -> f64
     where T: MyInt
 {
