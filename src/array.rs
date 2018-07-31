@@ -8,25 +8,9 @@ use std::ops::Add;
 use std::convert::*;
 use std::ops::Mul;
 
-pub trait MyInt: Copy + Into<f64> {
-        fn blank();
-
-}
-
-impl MyInt for i32 {
-    fn blank() {
-        unimplemented!()
-    }
-}
-
-impl MyInt for f32 {
-    fn blank() {
-        unimplemented!()
-    }
-}
 
 pub fn mean<T>(arr: &[T]) -> f64
-    where T: MyInt
+    where T: Copy + Into<f64>
 {
     let sum_array = arr.iter().fold(0f64 ,|a, &b| a + b.into());
     let length = arr.len() as f64;
